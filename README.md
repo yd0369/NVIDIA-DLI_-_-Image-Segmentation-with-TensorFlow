@@ -4,5 +4,3 @@
 # NVIDIA
 ## Deep Learning Institute
 ### Image Segmentation with TensorFlow
-
-- Checkout ImageSegmen
